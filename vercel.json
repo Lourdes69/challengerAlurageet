@@ -1,3 +1,101 @@
+
+
 {
-    "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 }]
-  }
+  "producto": [
+
+    {
+      "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 }]
+    },
+    
+    {
+      "nombre": "Producto XYZ",
+      "precio": "4000",
+      "imagen": "https://d22fxaf9t8d39k.cloudfront.net/88b58f04f0f2d7ade55b8b602a6b382e16a4a45118ba03b57d4adeb5325e37ef42024.jpeg",
+      "id": "3"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "7000",
+      "imagen": "https://intoxicated-allowan.000webhostapp.com/images/DarthVader.png",
+      "id": "4"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "3000",
+      "imagen": "https://cdn.alfabetajuega.com/alfabetajuega/2021/01/yoda.jpg",
+      "id": "5"
+    },
+    {
+      "nombre": "Control XYZ",
+      "precio": "6000",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/09/Xbox_One_S_052-1-scaled.jpg?fit=2560%2C1707&quality=50&strip=all&ssl=1",
+      "id": "6"
+    },
+    {
+      "nombre": "Consola XYZ",
+      "precio": "25000",
+      "imagen": "https://www.latercera.com/resizer/1W9eemjZkAdy9NW7ak9UOgBQ3Qw=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/62G62X63TNGZ5FG63UVFR2HR6Q.png",
+      "id": "8"
+    },
+    {
+      "nombre": "Consola XYZ",
+      "precio": "4500",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHSk_K4OnMKr6-Y5aBpK9fdQ6qp_2xVjoUQ&usqp=CAU",
+      "id": "9"
+    },
+    {
+      "nombre": "Consola XYZ",
+      "precio": "9000",
+      "imagen": "https://es.digitaltrends.com/wp-content/uploads/2023/03/mejores-consolas.jpeg?p=1",
+      "id": "10"
+    },
+    {
+      "nombre": "Mario Bros",
+      "precio": "7000",
+      "imagen": "https://resizer.glanacion.com/resizer/EQ349TEyD-deN8jTw3gMWU4p1yU=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CYAGSB7OBVCPZAMWQH2K4I6O6Q.jpg",
+      "id": "11"
+    },
+    {
+      "nombre": "Camisa Atari",
+      "precio": "6000",
+      "imagen": "https://cdn.palbincdn.com/users/28843/images/atari---copia-1530791753.jpg",
+      "id": "12"
+    },
+    {
+      "nombre": "Mario Bros",
+      "precio": "65000",
+      "imagen": "https://holadecodistribuidora.com/wp-content/uploads/2023/08/Captura-de-pantalla-2023-08-12-115047.png",
+      "id": "13"
+    },
+    {
+      "nombre": "Sonic",
+      "precio": "6000",
+      "imagen": "https://i.pinimg.com/1200x/37/b8/d1/37b8d1ed698a22414eaad06d856f4385.jpg",
+      "id": "14"
+    },
+    {
+      "nombre": "Lentes",
+      "precio": "8000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FP1DSOXEFe3oEyFnDZnuc6Ae1ER93Y5lWg&usqp=CAU",
+      "id": "15"
+    },
+    {
+      "nombre": "Consola Portatil",
+      "precio": "5000",
+      "imagen": "https://i.blogs.es/a5dc11/smartphone-gamer/1366_2000.jpg",
+      "id": "15"
+    },
+    {
+      "nombre": "Dragon Ball",
+      "precio": "6000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp21dvbE3dF2p4mrdniW6hUpapCg9c6pa_24iwUA1K1esc7apArCX0932s0HT1eAiWvrI&usqp=CAU",
+      "id": "15"
+    },
+    {
+      "nombre": "Dragon Ball",
+      "precio": "7700",
+      "imagen": "https://luffytoys.cl/cdn/shop/products/Sintitulo-1_207c39b3-5e2e-4a63-9be3-4789872f1281_1200x.png?v=1641430277",
+      "id": "15"
+    }
+  ]
+}
